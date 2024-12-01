@@ -1,0 +1,56 @@
+.sidebar-container{
+    width: 270px;
+    height: 960px;
+    background-color: #0D1424;
+}
+.Logo{
+width: 220px;
+height: 55.48px;
+padding: 10px;
+}
+.file-container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 20px;
+}
+.file-logo{
+    color: #9EA0B3;
+    border: 2px solid;
+    margin-right: 30px;
+}
+.file-name{
+    font-weight: 600;
+    font-size: 18px;
+    font-family: Inter;
+    color: #9EA0B3;
+}
+.file-arrow{
+    color: #9EA0B3;
+    margin-left: 20px;
+}
+.file-arrow1{
+    color: #9EA0B3;
+    visibility: hidden;
+}
+.arrow{
+    position: absolute;
+    left: 218px;
+    top: 350px;
+    height: 35px;
+    width: 35px;
+    color: #0f8bfd;
+}
+.rightArrow{
+    display: flex;
+    width: 40px;
+    height: 50px;
+}
+.div-container{
+    position: relative;
+    color: blue;
+    background-color: white;
+    width: 40px;
+    height: 100vh;
+    top: 350px;
+}

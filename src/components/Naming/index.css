@@ -1,0 +1,81 @@
+.Naming-container {
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+
+.Naming-person {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    height: 64px;
+    width: 213px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-right: 10px;
+}
+
+.Naming-person2 {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    height: 64px;
+    width: 213px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-right: 10px;
+    border: 1px solid blue;
+    border-bottom-color: white;
+}
+
+.Naming-person1 {
+    display: flex;
+    align-items: center;
+    background-color: #0f8bfd;
+    height: 64px;
+    width: 213px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-right: 10px;
+}
+
+.name-logo {
+    background-color: #EEF0F5;
+    height: 48px;
+    width: 48px;
+    border-radius: 50px;
+    border: 1px solid #4c6292;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.message-logo {
+    background-color: #0f8bfd;
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+    border: 1px solid #4c6292;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    color: white;
+}
+
+.name-person {
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+}
+.name-person1 {
+    color: blue;
+    font-weight: 600;
+    font-size: 14px;
+}
+.name-person2 {
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+}

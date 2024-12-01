@@ -1,0 +1,89 @@
+.process {
+    width: 166px;
+    height: 27px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    background-color: #FCCC55;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.header-container {
+    max-width: 1650px;
+    height: 64px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 1250px;
+}
+
+.header-cont2 {
+    display: flex;
+}
+
+.header-cont3 {
+    display: flex;
+    align-items: center;
+}
+
+.header-cont4 {
+    display: flex;
+    align-items: center;
+}
+
+.header-cont5 {
+    display: flex;
+    align-items: center;
+}
+
+.cont {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.header-admin {
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    color: #ffffff;
+    background-color: #E553BC;
+    border-radius: 5px;
+    padding: 5px 15px 5px 15px;
+    margin-right: 10px;
+}
+
+.header-name {
+    font-size: 14px;
+    font-weight: 500;
+    color: #8A8EA6;
+    margin-right: 10px;
+}
+
+.profile-photo {
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+
+.logout {
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 14px;
+    color: #8A8EA6;
+    margin-right: 10px;
+}
+
+.logout-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.heading-element {
+    font-weight: 500;
+    font-size: 17.5px;
+    color: #8A8EA6;
+    margin-left: 10px;
+}
